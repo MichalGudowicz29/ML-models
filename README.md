@@ -1,9 +1,8 @@
-```markdown
 # Custom ML Models Implementation
 
 Repozytorium zawiera ręczne implementacje algorytmów machine learning od podstaw.
 
-## 🧩 Aktualne modele
+## Aktualne modele
 
 ### Drzewo Decyzyjne (`decision-tree/decision_tree.py`)
 ```python
@@ -69,6 +68,5 @@ model.fit(X_train, y_train)
 predictions = model.predict(X_test)
 ```
 
-## ⚠️ Uwaga
+## Uwaga
 Implementacje są w fazie rozwojowej i nie powinny być używane w środowisku produkcyjnym.
-```
