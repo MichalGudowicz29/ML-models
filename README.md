@@ -50,7 +50,7 @@ class RandomForestRegressor:
 - [ ] Losowy wybór cech
 - [ ] Równoległe trenowanie drzew
 
-## 🛠 Jak użyć
+## Jak użyć
 
 1. Zaimportuj potrzebny model:
 ```python
